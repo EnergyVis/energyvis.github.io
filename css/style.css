@@ -214,6 +214,7 @@
                                                 list-style:none;
                                                 margin:0;
                                                 padding:0}
+								.committee-list__item a {color: #393939;text-decoration:underline}
                                 .committee-list__item--institution{display:block;font-size:13px;font-style:italic}
                                 
 		ul.default
