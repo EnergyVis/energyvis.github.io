@@ -105,6 +105,9 @@ dl,
 table {
 	margin-bottom: 1em;
 }
+ul > li {
+    margin-left: 20px;
+}
 
 header {
 	margin-bottom: .1em;
